@@ -8,6 +8,8 @@ public class Hello : MonoBehaviour
     void Start()
     {
         int Barıs = 10;
+        int Ercan = 10;
+        int VS = 10;
     }
 
     // Update is called once per frame
