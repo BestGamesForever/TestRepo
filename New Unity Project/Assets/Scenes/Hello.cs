@@ -10,6 +10,7 @@ public class Hello : MonoBehaviour
         int Barıs = 10;
         int Ercan = 10;
         int VS = 10;
+        int Test = 10;
     }
 
     // Update is called once per frame
